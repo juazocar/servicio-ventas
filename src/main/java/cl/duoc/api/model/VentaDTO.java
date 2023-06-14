@@ -9,4 +9,5 @@ public class VentaDTO {
     private int total;
     private double descuento;
     private String fecha;
+    private String webpayToken;
 }
